@@ -8,7 +8,7 @@ public class LoginTests extends TestBase{
     public void loginSuccess(){
         app.getUserHelper().openLoginForm();
         app.getUserHelper().fillLoginForm("jack123@gmail.com", "Js12345@");
-        app.getUserHelper().submitForm();
+        app.getUserHelper().submitLoginForm();
 
     }
 
