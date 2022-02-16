@@ -1,0 +1,261 @@
+14:40:50  INFO  manager.ApplicationManager - All tests starts in 'FIREFOX' browser
+14:40:52  INFO  tests.TestBase - Name of test ---> loginSuccess
+14:40:52  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:40:57  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:40:57  INFO  tests.TestBase - Test start with email: [jack123@gmail.com] & password: [Js12345@]
+14:40:57  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Log in ']
+14:40:57  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']---> was found
+14:40:58  INFO  manager.MyListener - Start find element --->By.id: email
+14:40:58  INFO  manager.MyListener - The element with locator --->By.id: email---> was found
+14:40:58  INFO  manager.MyListener - Start find element --->By.id: password
+14:40:58  INFO  manager.MyListener - The element with locator --->By.id: password---> was found
+14:40:58  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+14:40:58  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+14:40:59  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+14:40:59  INFO  manager.MyListener - The element with locator --->By.xpath: //div[@class='dialog-container']---> was found
+14:40:59  INFO  manager.MyListener - Start find element --->By.xpath: //button[text()='Ok']
+14:40:59  INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']---> was found
+14:40:59  INFO  tests.TestBase - Name of test ---> loginSuccessModel
+14:40:59  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:40:59  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:40:59  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:40:59  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:41:00  INFO  tests.TestBase - The test start with dataUser{name='null', lastName='null', email='jack123@gmail.com', password='Js12345@'}
+14:41:00  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Log in ']
+14:41:00  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']---> was found
+14:41:00  INFO  manager.MyListener - Start find element --->By.id: email
+14:41:00  INFO  manager.MyListener - The element with locator --->By.id: email---> was found
+14:41:00  INFO  manager.MyListener - Start find element --->By.id: password
+14:41:00  INFO  manager.MyListener - The element with locator --->By.id: password---> was found
+14:41:00  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+14:41:00  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+14:41:01  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+14:41:01  INFO  manager.MyListener - The element with locator --->By.xpath: //div[@class='dialog-container']---> was found
+14:41:01  INFO  manager.MyListener - Start find element --->By.xpath: //button[text()='Ok']
+14:41:01  INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']---> was found
+14:41:01  INFO  tests.TestBase - Name of test ---> loginSuccessModelDataProvider
+14:41:01  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:41:02  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:41:02  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:41:02  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:41:02  INFO  tests.TestBase - The test start with dataUser{name='null', lastName='null', email='jack123@gmail.com', password='Js12345@'}
+14:41:02  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Log in ']
+14:41:02  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']---> was found
+14:41:02  INFO  manager.MyListener - Start find element --->By.id: email
+14:41:02  INFO  manager.MyListener - The element with locator --->By.id: email---> was found
+14:41:02  INFO  manager.MyListener - Start find element --->By.id: password
+14:41:02  INFO  manager.MyListener - The element with locator --->By.id: password---> was found
+14:41:03  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+14:41:03  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+14:41:03  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+14:41:03  INFO  manager.MyListener - The element with locator --->By.xpath: //div[@class='dialog-container']---> was found
+14:41:03  INFO  manager.MyListener - Start find element --->By.xpath: //button[text()='Ok']
+14:41:03  INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']---> was found
+14:41:04  INFO  tests.TestBase - Name of test ---> loginSuccessModelDataProvider
+14:41:04  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:41:04  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:41:04  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:41:04  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:41:04  INFO  tests.TestBase - The test start with dataUser{name='null', lastName='null', email='will123@gmail.com', password='Js12346@'}
+14:41:04  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Log in ']
+14:41:04  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']---> was found
+14:41:04  INFO  manager.MyListener - Start find element --->By.id: email
+14:41:04  INFO  manager.MyListener - The element with locator --->By.id: email---> was found
+14:41:05  INFO  manager.MyListener - Start find element --->By.id: password
+14:41:05  INFO  manager.MyListener - The element with locator --->By.id: password---> was found
+14:41:05  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+14:41:05  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+14:41:06  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+14:41:06  INFO  manager.MyListener - The element with locator --->By.xpath: //div[@class='dialog-container']---> was found
+14:41:06  INFO  manager.MyListener - Start find element --->By.xpath: //button[text()='Ok']
+14:41:06  INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']---> was found
+14:41:06  INFO  tests.TestBase - Name of test ---> loginSuccessModelDataProvider
+14:41:06  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:41:06  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:41:06  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:41:06  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:41:06  INFO  tests.TestBase - The test start with dataUser{name='null', lastName='null', email='syao123@gmail.com', password='Js12347@'}
+14:41:06  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Log in ']
+14:41:06  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']---> was found
+14:41:06  INFO  manager.MyListener - Start find element --->By.id: email
+14:41:06  INFO  manager.MyListener - The element with locator --->By.id: email---> was found
+14:41:07  INFO  manager.MyListener - Start find element --->By.id: password
+14:41:07  INFO  manager.MyListener - The element with locator --->By.id: password---> was found
+14:41:07  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+14:41:07  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+14:41:08  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+14:41:08  INFO  manager.MyListener - The element with locator --->By.xpath: //div[@class='dialog-container']---> was found
+14:41:08  INFO  manager.MyListener - Start find element --->By.xpath: //button[text()='Ok']
+14:41:08  INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']---> was found
+14:41:08  INFO  tests.TestBase - Name of test ---> registrationSuccessDP
+14:41:08  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:41:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:41:08  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:41:08  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:41:08  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Sign up ']
+14:41:08  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Sign up ']---> was found
+14:41:09  INFO  manager.MyListener - Start find element --->By.tagName: form
+14:41:09  INFO  manager.MyListener - The element with locator --->By.tagName: form---> was found
+14:41:09  INFO  manager.MyListener - Start find element --->By.id: name
+14:41:09  INFO  manager.MyListener - The element with locator --->By.id: name---> was found
+14:41:09  INFO  manager.MyListener - Start find element --->By.cssSelector: #lastName
+14:41:09  INFO  manager.MyListener - The element with locator --->By.cssSelector: #lastName---> was found
+14:41:09  INFO  manager.MyListener - Start find element --->By.id: email
+14:41:09  INFO  manager.MyListener - The element with locator --->By.id: email---> was found
+14:41:10  INFO  manager.MyListener - Start find element --->By.cssSelector: #password
+14:41:10  INFO  manager.MyListener - The element with locator --->By.cssSelector: #password---> was found
+14:41:13  INFO  manager.MyListener - Start find element --->By.xpath: //label[@for='terms-of-use']
+14:41:13  INFO  manager.MyListener - The element with locator --->By.xpath: //label[@for='terms-of-use']---> was found
+14:41:16  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+14:41:16  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+14:41:17  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']//h2
+14:41:17  INFO  manager.MyListener - The element with locator --->By.xpath: //div[@class='dialog-container']//h2---> was found
+14:41:17  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+14:41:17  INFO  manager.MyListener - The element with locator --->By.xpath: //div[@class='dialog-container']---> was found
+14:41:17  INFO  manager.MyListener - Start find element --->By.xpath: //button[text()='Ok']
+14:41:17  INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']---> was found
+14:41:18  INFO  tests.TestBase - Name of test ---> registrationSuccessDP
+14:41:18  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+14:41:23  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+14:41:23  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Sign up ']
+14:41:23  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Sign up ']---> was found
+14:41:23  INFO  manager.MyListener - Start find element --->By.tagName: form
+14:41:23  INFO  manager.MyListener - The element with locator --->By.tagName: form---> was found
+14:41:23  INFO  manager.MyListener - Start find element --->By.id: name
+14:41:23  INFO  manager.MyListener - The element with locator --->By.id: name---> was found
+14:41:23  INFO  manager.MyListener - Start find element --->By.cssSelector: #lastName
+14:41:23  INFO  manager.MyListener - The element with locator --->By.cssSelector: #lastName---> was found
+14:41:24  INFO  manager.MyListener - Start find element --->By.id: email
+14:41:24  INFO  manager.MyListener - The element with locator --->By.id: email---> was found
+14:41:24  INFO  manager.MyListener - Start find element --->By.cssSelector: #password
+14:41:24  INFO  manager.MyListener - The element with locator --->By.cssSelector: #password---> was found
+14:41:27  INFO  manager.MyListener - Start find element --->By.xpath: //label[@for='terms-of-use']
+14:41:27  INFO  manager.MyListener - The element with locator --->By.xpath: //label[@for='terms-of-use']---> was found
+14:41:31  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+14:41:31  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+14:41:31  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']//h2
+14:41:37  INFO  manager.MyListener - We have a throwable --->Unable to locate element: //div[@class='dialog-container']//h2
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']//h2}
+14:41:37  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@class='dialog-container']//h2
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']//h2}
+14:41:37  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen2497.png
+14:41:37  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']//h2
+14:41:43  INFO  manager.MyListener - We have a throwable --->Unable to locate element: //div[@class='dialog-container']//h2
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']//h2}
+14:41:43  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@class='dialog-container']//h2
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']//h2}
+14:41:43  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen2503.png
+14:41:44  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']//h2
+14:41:49  INFO  manager.MyListener - We have a throwable --->Unable to locate element: //div[@class='dialog-container']//h2
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']//h2}
+14:41:49  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@class='dialog-container']//h2
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']//h2}
+14:41:49  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen2509.png
+14:41:49  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']//h2
+14:41:54  INFO  manager.MyListener - We have a throwable --->Unable to locate element: //div[@class='dialog-container']//h2
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']//h2}
+14:41:54  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@class='dialog-container']//h2
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']//h2}
+14:41:54  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen2514.png
+14:41:55  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+14:42:00  INFO  manager.MyListener - We have a throwable --->Unable to locate element: //div[@class='dialog-container']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+14:42:00  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@class='dialog-container']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+14:42:00  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen2520.png
+14:42:01  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+14:42:06  INFO  manager.MyListener - We have a throwable --->Unable to locate element: //div[@class='dialog-container']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+14:42:06  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@class='dialog-container']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+14:42:06  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen2526.png
+14:42:07  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+14:42:12  INFO  manager.MyListener - We have a throwable --->Unable to locate element: //div[@class='dialog-container']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+14:42:12  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: Unable to locate element: //div[@class='dialog-container']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 81.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200930150533, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 14464, moz:profile: C:\Users\Natali\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 11cc1b91-1c0c-42b7-8f77-71ae54ff9c65
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+14:42:12  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen2532.png

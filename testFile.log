@@ -1,0 +1,10 @@
+3273 [Test worker] INFO  manager.ApplicationManager - All tests starts in 'Chrom' browser
+5205 [Test worker] INFO  tests.TestBase - Name of test ---> loginSuccess
+10256 [Test worker] INFO  tests.TestBase - Test start with email: [jack123@gmail.com] & password: [Js12345@]
+11667 [Test worker] INFO  tests.TestBase - Name of test ---> loginSuccessModel
+11939 [Test worker] INFO  tests.TestBase - The test start with dataUser{name='null', lastName='null', email='jack123@gmail.com', password='Js12345@'}
+20:35:20  INFO  manager.ApplicationManager - All tests starts in 'Chrom' browser
+20:35:23  INFO  tests.TestBase - Name of test ---> loginSuccess
+20:35:28  INFO  tests.TestBase - Test start with email: [jack123@gmail.com] & password: [Js12345@]
+20:35:29  INFO  tests.TestBase - Name of test ---> loginSuccessModel
+20:35:29  INFO  tests.TestBase - The test start with dataUser{name='null', lastName='null', email='jack123@gmail.com', password='Js12345@'}

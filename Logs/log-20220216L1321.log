@@ -1,0 +1,87 @@
+13:21:29  INFO  manager.ApplicationManager - All tests starts in 'Chrom' browser
+13:21:31  INFO  tests.TestBase - Name of test ---> searchPeriodAnyDataInFuture
+13:21:31  INFO  manager.MyListener - Start find element --->By.id: city
+13:21:31  INFO  manager.MyListener - The element with locator --->By.id: city---> was found
+13:21:31  INFO  manager.MyListener - Start find element --->By.cssSelector: .pac-item
+13:21:32  INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item---> was found
+13:21:32  INFO  manager.MyListener - Start find element --->By.id: dates
+13:21:32  INFO  manager.MyListener - The element with locator --->By.id: dates---> was found
+13:21:32  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:32  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:32  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:32  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:32  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:32  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:32  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:32  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:33  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:33  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:33  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:33  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:33  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:33  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:33  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:33  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:33  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:33  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:33  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:33  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:33  INFO  manager.MyListener - Start find element --->By.cssSelector: button[aria-label='Next month']
+13:21:33  INFO  manager.MyListener - The element with locator --->By.cssSelector: button[aria-label='Next month']---> was found
+13:21:33  INFO  manager.MyListener - Start find element --->By.xpath: //div[text()=' 10 ']
+13:21:33  INFO  manager.MyListener - The element with locator --->By.xpath: //div[text()=' 10 ']---> was found
+13:21:33  INFO  manager.MyListener - Start find element --->By.xpath: //div[text()=' 31 ']
+13:21:33  INFO  manager.MyListener - The element with locator --->By.xpath: //div[text()=' 31 ']---> was found
+13:21:40  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+13:21:40  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+13:21:40  INFO  manager.MyListener - Start find element --->By.cssSelector: .search-results
+13:21:40  INFO  manager.MyListener - The element with locator --->By.cssSelector: .search-results---> was found
+13:21:40  INFO  manager.MyListener - Start find element --->By.cssSelector: .header a[href='/']
+13:21:40  INFO  manager.MyListener - The element with locator --->By.cssSelector: .header a[href='/']---> was found
+13:21:41  INFO  tests.TestBase - Name of test ---> searchPeriodCurrentMonth
+13:21:41  INFO  manager.MyListener - Start find element --->By.id: city
+13:21:41  INFO  manager.MyListener - The element with locator --->By.id: city---> was found
+13:21:41  INFO  manager.MyListener - Start find element --->By.cssSelector: .pac-item
+13:21:41  INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item---> was found
+13:21:42  INFO  manager.MyListener - Start find element --->By.id: dates
+13:21:42  INFO  manager.MyListener - The element with locator --->By.id: dates---> was found
+13:21:42  INFO  manager.MyListener - Start find element --->By.xpath: //div[text()=' 7 ']
+13:21:42  INFO  manager.MyListener - The element with locator --->By.xpath: //div[text()=' 7 ']---> was found
+13:21:42  INFO  manager.MyListener - Start find element --->By.xpath: //div[text()=' 11 ']
+13:21:42  INFO  manager.MyListener - The element with locator --->By.xpath: //div[text()=' 11 ']---> was found
+13:21:47  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+13:21:47  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+13:21:47  INFO  manager.MyListener - Start find element --->By.cssSelector: .search-results
+13:21:47  INFO  manager.MyListener - The element with locator --->By.cssSelector: .search-results---> was found
+13:21:47  INFO  manager.MyListener - Start find element --->By.cssSelector: .header a[href='/']
+13:21:47  INFO  manager.MyListener - The element with locator --->By.cssSelector: .header a[href='/']---> was found
+13:21:48  INFO  tests.TestBase - Name of test ---> searchPeriodCurrentMonth2
+13:21:48  INFO  manager.MyListener - Start find element --->By.id: city
+13:21:48  INFO  manager.MyListener - The element with locator --->By.id: city---> was found
+13:21:48  INFO  manager.MyListener - Start find element --->By.cssSelector: .pac-item
+13:21:48  INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item---> was found
+13:21:49  INFO  manager.MyListener - Start find element --->By.id: dates
+13:21:49  INFO  manager.MyListener - The element with locator --->By.id: dates---> was found
+13:21:49  INFO  manager.MyListener - Start find element --->By.xpath: //div[text()=' 11 ']
+13:21:49  INFO  manager.MyListener - The element with locator --->By.xpath: //div[text()=' 11 ']---> was found
+13:21:49  INFO  manager.MyListener - Start find element --->By.xpath: //div[text()=' 15 ']
+13:21:49  INFO  manager.MyListener - The element with locator --->By.xpath: //div[text()=' 15 ']---> was found
+13:21:54  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+13:21:54  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+13:21:54  INFO  manager.MyListener - Start find element --->By.cssSelector: .search-results
+13:21:54  INFO  manager.MyListener - The element with locator --->By.cssSelector: .search-results---> was found
+13:21:54  INFO  manager.MyListener - Start find element --->By.cssSelector: .header a[href='/']
+13:21:54  INFO  manager.MyListener - The element with locator --->By.cssSelector: .header a[href='/']---> was found
+13:21:55  INFO  tests.TestBase - Name of test ---> typePeriodInPast
+13:21:55  INFO  manager.MyListener - Start find element --->By.id: city
+13:21:55  INFO  manager.MyListener - The element with locator --->By.id: city---> was found
+13:21:55  INFO  manager.MyListener - Start find element --->By.cssSelector: .pac-item
+13:21:55  INFO  manager.MyListener - The element with locator --->By.cssSelector: .pac-item---> was found
+13:21:56  INFO  manager.MyListener - Start find element --->By.id: dates
+13:21:56  INFO  manager.MyListener - The element with locator --->By.id: dates---> was found
+13:21:56  INFO  manager.MyListener - Start find element --->By.cssSelector: .cdk-overlay-container
+13:21:56  INFO  manager.MyListener - The element with locator --->By.cssSelector: .cdk-overlay-container---> was found
+13:22:03  INFO  manager.MyListener - Start find element --->By.cssSelector: .error .ng-star-inserted
+13:22:03  INFO  manager.MyListener - The element with locator --->By.cssSelector: .error .ng-star-inserted---> was found
+13:22:03  INFO  manager.MyListener - Start find element --->By.cssSelector: .header a[href='/']
+13:22:03  INFO  manager.MyListener - The element with locator --->By.cssSelector: .header a[href='/']---> was found

@@ -1,0 +1,185 @@
+13:00:19  INFO  manager.ApplicationManager - All tests starts in 'Chrom' browser
+13:00:20  INFO  tests.TestBase - Name of test ---> loginSuccessModel
+13:00:20  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+13:00:26  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+13:00:26  INFO  tests.TestBase - The test start with dataUser{name='null', lastName='null', email='jack123@gmail.com', password='Js12345@'}
+13:00:26  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Log in ']
+13:00:26  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']---> was found
+13:00:26  INFO  manager.MyListener - Start find element --->By.id: email
+13:00:26  INFO  manager.MyListener - The element with locator --->By.id: email---> was found
+13:00:26  INFO  manager.MyListener - Start find element --->By.id: password
+13:00:26  INFO  manager.MyListener - The element with locator --->By.id: password---> was found
+13:00:26  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+13:00:26  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+13:00:27  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+13:00:27  INFO  manager.MyListener - The element with locator --->By.xpath: //div[@class='dialog-container']---> was found
+13:00:27  INFO  manager.MyListener - Start find element --->By.xpath: //button[text()='Ok']
+13:00:27  INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']---> was found
+13:00:44  INFO  manager.ApplicationManager - All tests starts in 'Chrom' browser
+13:00:46  INFO  tests.TestBase - Name of test ---> loginSuccessModelDataProvider
+13:00:46  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+13:00:51  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+13:00:51  INFO  tests.TestBase - The test start with dataUser{name='null', lastName='null', email='jack123@gmail.com', password='Js12345@'}
+13:00:51  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Log in ']
+13:00:51  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']---> was found
+13:00:51  INFO  manager.MyListener - Start find element --->By.id: email
+13:00:51  INFO  manager.MyListener - The element with locator --->By.id: email---> was found
+13:00:51  INFO  manager.MyListener - Start find element --->By.id: password
+13:00:51  INFO  manager.MyListener - The element with locator --->By.id: password---> was found
+13:00:52  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+13:00:52  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+13:00:52  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+13:00:52  INFO  manager.MyListener - The element with locator --->By.xpath: //div[@class='dialog-container']---> was found
+13:00:52  INFO  manager.MyListener - Start find element --->By.xpath: //button[text()='Ok']
+13:00:52  INFO  manager.MyListener - The element with locator --->By.xpath: //button[text()='Ok']---> was found
+13:00:52  INFO  tests.TestBase - Name of test ---> loginSuccessModelDataProvider
+13:00:52  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+13:00:52  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+13:00:52  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+13:00:52  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+13:00:53  INFO  tests.TestBase - The test start with dataUser{name='null', lastName='null', email='will123@gmail.com', password='Js12346@'}
+13:00:53  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Log in ']
+13:00:53  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Log in ']---> was found
+13:00:53  INFO  manager.MyListener - Start find element --->By.id: email
+13:00:58  INFO  manager.MyListener - We have a throwable --->no such element: Unable to locate element: {"method":"css selector","selector":"#email"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=id, value=email}
+13:00:58  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#email"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=id, value=email}
+13:00:58  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen58.png
+13:00:58  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+13:01:03  INFO  manager.MyListener - We have a throwable --->no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:03  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:03  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen63.png
+13:01:04  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+13:01:09  INFO  manager.MyListener - We have a throwable --->no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:09  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:09  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen69.png
+13:01:11  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+13:01:16  INFO  manager.MyListener - We have a throwable --->no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:16  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:16  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen76.png
+13:01:17  INFO  tests.TestBase - Name of test ---> loginSuccessModelDataProvider
+13:01:17  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+13:01:22  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+13:01:22  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+13:01:27  INFO  manager.MyListener - We have a throwable --->no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:27  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:27  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen87.png
+13:01:28  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+13:01:33  INFO  manager.MyListener - We have a throwable --->no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:33  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:33  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen93.png
+13:01:34  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+13:01:39  INFO  manager.MyListener - We have a throwable --->no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:39  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.102)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.102, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5f0a16bfbf95ec4fb564cd3c302c700
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+13:01:39  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen99.png

@@ -1,0 +1,252 @@
+09:24:41  INFO  manager.ApplicationManager - All tests starts in 'Chrom' browser
+09:24:43  INFO  tests.TestBase - Name of test ---> registrationSuccessDP
+09:24:43  INFO  manager.MyListener - Start find element --->By.xpath: //*[text()=' Logout ']
+09:24:48  INFO  manager.MyListener - The element with locator --->By.xpath: //*[text()=' Logout ']---> was found
+09:24:48  INFO  manager.MyListener - Start find element --->By.xpath: //a[text()=' Sign up ']
+09:24:48  INFO  manager.MyListener - The element with locator --->By.xpath: //a[text()=' Sign up ']---> was found
+09:24:48  INFO  manager.MyListener - Start find element --->By.tagName: form
+09:24:48  INFO  manager.MyListener - The element with locator --->By.tagName: form---> was found
+09:24:48  INFO  manager.MyListener - Start find element --->By.id: name
+09:24:48  INFO  manager.MyListener - The element with locator --->By.id: name---> was found
+09:24:48  INFO  manager.MyListener - Start find element --->By.cssSelector: #lastName
+09:24:48  INFO  manager.MyListener - The element with locator --->By.cssSelector: #lastName---> was found
+09:24:49  INFO  manager.MyListener - Start find element --->By.id: email
+09:24:49  INFO  manager.MyListener - The element with locator --->By.id: email---> was found
+09:24:49  INFO  manager.MyListener - Start find element --->By.cssSelector: #password
+09:24:49  INFO  manager.MyListener - The element with locator --->By.cssSelector: #password---> was found
+09:24:52  INFO  manager.MyListener - Start find element --->By.xpath: //label[@for='terms-of-use']
+09:24:52  INFO  manager.MyListener - The element with locator --->By.xpath: //label[@for='terms-of-use']---> was found
+09:24:56  INFO  manager.MyListener - Start find element --->By.cssSelector: [type='submit']
+09:24:56  INFO  manager.MyListener - The element with locator --->By.cssSelector: [type='submit']---> was found
+09:24:56  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:01  INFO  manager.MyListener - We have a throwable --->no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:01  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dialog-container']"}
+  (Session info: chrome=98.0.4758.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:01  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1501.png
+09:25:03  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:05  INFO  manager.MyListener - We have a throwable --->Cannot locate an element using xpath=//div[@class='dialog-container']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: driver.version: EventFiringWebDriver
+09:25:05  INFO  manager.MyListener - org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=//div[@class='dialog-container']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: driver.version: EventFiringWebDriver
+09:25:05  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1505.png
+09:25:06  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:06  INFO  manager.MyListener - We have a throwable --->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:06  INFO  manager.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:06  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1506.png
+09:25:06  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:07  INFO  manager.MyListener - We have a throwable --->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:07  INFO  manager.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:07  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1507.png
+09:25:07  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:07  INFO  manager.MyListener - We have a throwable --->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:07  INFO  manager.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:07  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1507.png
+09:25:08  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:08  INFO  manager.MyListener - We have a throwable --->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:08  INFO  manager.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:08  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1508.png
+09:25:08  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:08  INFO  manager.MyListener - We have a throwable --->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:08  INFO  manager.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:08  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1508.png
+09:25:09  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:09  INFO  manager.MyListener - We have a throwable --->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:09  INFO  manager.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:09  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1509.png
+09:25:09  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:09  INFO  manager.MyListener - We have a throwable --->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:09  INFO  manager.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:09  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1509.png
+09:25:10  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:10  INFO  manager.MyListener - We have a throwable --->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:10  INFO  manager.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:10  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1510.png
+09:25:10  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:10  INFO  manager.MyListener - We have a throwable --->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:10  INFO  manager.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:10  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1510.png
+09:25:11  INFO  manager.MyListener - Start find element --->By.xpath: //div[@class='dialog-container']
+09:25:11  INFO  manager.MyListener - We have a throwable --->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:11  INFO  manager.MyListener - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-O62I6CB', ip: '10.100.102.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\Natali\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64480}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e8edc2512ebea66e9feb9ef6f5c8d37f
+*** Element info: {Using=xpath, value=//div[@class='dialog-container']}
+09:25:11  INFO  manager.MyListener - This is your screen with error -->src/test/screenshorts/screen1511.png
